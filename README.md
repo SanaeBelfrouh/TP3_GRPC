@@ -1,22 +1,30 @@
-Activité Pratique N°3 - GRPC
-=> Première Partie :
-- Unary Model
+# Activité Pratique N°3 - GRPC
 
-🎯 En utilisant BloomRPC:
+Dans le cadre de notre TP, nous avons travaillé sur GRPC (Google Remote Procedure Call), une technologie de communication inter-processus développée par Google. Le but de ce TP est de se familiariser avec GRPC et de comprendre comment il peut être utilisé pour créer des services distribués.
+Ci-dessous, vous trouverez des captures d'écran des clients GRPC utilisant chacun des quatre modèles :
+
+## => Première Partie 
+
+### - Unary Model
+     Dans le modèle Unary, le client envoie une seule requête au serveur et attend une réponse. 
+
+#### 🎯 En utilisant BloomRPC
 ![alt text](https://user-images.githubusercontent.com/116807307/235531460-5d029f66-e48d-4f4d-8f4e-feb44c2fe738.gif)
-🎯 Un client java 
+#### 🎯 Un client java 
 ![alt text](https://user-images.githubusercontent.com/116807307/235531614-4d344e06-37a7-4976-b4df-35442acc2124.gif)
-- Server Sreaming Model
+### - Server Sreaming Model
+     Dans le modèle Server Streaming, le client envoie une requête et le serveur envoie plusieurs réponses en retour.
 
-🎯
-🎯
+#### 🎯 En utilisant BloomRPC
+#### 🎯 Un client java 
+
 - Client Streaming Model
-🎯
-🎯
+#### 🎯 Un client java 
+#### 🎯 Un client java 
 - BiDirectional Streaming Model
-🎯
-🎯
-Pour le cas d'une conversion de monnaie
+#### 🎯 Un client java 
+#### 🎯 Un client java 
+
 
 => Deuxième partie
  1. Créer un serveur Chat GRPC
