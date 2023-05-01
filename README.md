@@ -16,13 +16,24 @@ Ci-dessous, vous trouverez des captures d'écran des clients GRPC utilisant chac
      Dans le modèle Server Streaming, le client envoie une requête et le serveur envoie plusieurs réponses en retour.
 
 #### 🎯 En utilisant BloomRPC
+![alt text](https://user-images.githubusercontent.com/116807307/235536289-970455af-08b9-4631-8e55-33d8698e6f66.gif)
+
 #### 🎯 Un client java 
+![alt text](https://user-images.githubusercontent.com/116807307/235536001-2f27f45d-9c6a-4fce-8c30-153bfa5d0549.gif)
+
 
 - Client Streaming Model
-#### 🎯 Un client java 
-#### 🎯 Un client java 
+
+#### 🎯 En utilisant BloomRPC
+![alt text](https://user-images.githubusercontent.com/116807307/235536715-e63634d1-021f-45b4-961d-6d23ff01007a.gif)
+
+#### 🎯 Un client java
+![alt text](https://user-images.githubusercontent.com/116807307/235540574-70df1e6d-04a2-4a02-a9bd-96b25510d879.gif)
+
+
 - BiDirectional Streaming Model
-#### 🎯 Un client java 
+#### 🎯 En utilisant BloomRPC
+
 #### 🎯 Un client java 
 
 
