@@ -1,8 +1,8 @@
 Activité Pratique N°3 - GRPC
 => Première Partie :
 - Unary Model
-![VD1](https://user-images.githubusercontent.com/116807307/235531460-5d029f66-e48d-4f4d-8f4e-feb44c2fe738.gif)
-![VD2](https://user-images.githubusercontent.com/116807307/235531614-4d344e06-37a7-4976-b4df-35442acc2124.gif)
+![alt text](https://user-images.githubusercontent.com/116807307/235531460-5d029f66-e48d-4f4d-8f4e-feb44c2fe738.gif)
+![alt text](https://user-images.githubusercontent.com/116807307/235531614-4d344e06-37a7-4976-b4df-35442acc2124.gif)
 - Server Sreaming Model
 - Client Streaming Model
 - BiDirectional Streaming Model
