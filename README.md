@@ -33,18 +33,23 @@ Ci-dessous, vous trouverez des captures d'écran des clients GRPC utilisant chac
 
 - BiDirectional Streaming Model
 #### 🎯 En utilisant BloomRPC
+![alt text](https://github.com/SanaeBelfrouh/TP3_GRPC/assets/116807307/8e52208c-fbec-4994-ba9f-219088bc4f4b)
 
 #### 🎯 Un client java 
+![alt text](https://github.com/SanaeBelfrouh/TP3_GRPC/assets/116807307/460d56fb-b1da-4400-bc58-f9a66312511d)
 
 
 => Deuxième partie
  1. Créer un serveur Chat GRPC
  2. Tester le serveur Chat avec un client GRPC comme BloomRPC
- 🎯
+ 🎯![alt text](https://github.com/SanaeBelfrouh/TP3_GRPC/assets/116807307/869af2d3-6ae6-4297-be7c-950479752bff)
+
  3. Créer un client GRPC Java
- 🎯
+ 🎯![alt text](https://github.com/SanaeBelfrouh/TP3_GRPC/assets/116807307/84b8c977-fcd2-482a-a561-919d0b02f01e)
+
  4. Créer un client GRPC Python
- 🎯
+ 🎯![alt text](https://github.com/SanaeBelfrouh/TP3_GRPC/assets/116807307/5957860a-18f7-44aa-8895-4ae9019fdd73)
+
 => Troisième partie
  1. Créer un serveur JEU GRPC :
      - Au démarrage le serveur choisit un nombre aléatoire entre 1 et 1000. 
@@ -54,3 +59,5 @@ Ci-dessous, vous trouverez des captures d'écran des clients GRPC utilisant chac
         . Votre nombre est plus petit
         . BRAVO vous avez gagné et envoyer le gagnant aux clients
         . Jeu terminé, le gagnant est ""Numéro du gagnant"
+![alt text](https://github.com/SanaeBelfrouh/TP3_GRPC/assets/116807307/d936c1b4-408c-4291-8789-c6544fcef2a5)
+
